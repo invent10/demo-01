@@ -1,0 +1,55 @@
+{
+  "header": {
+    "about": "About",
+    "academics": "Academics",
+    "research": "Research",
+    "admissions": "Admissions",
+    "campusLife": "Campus Life",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Indian Institute of Science Education and Research",
+    "subtitle": "Advancing the frontiers of science through innovative research and education",
+    "applyNow": "Apply Now",
+    "exploreResearch": "Explore Research"
+  },
+  "today": {
+    "messageTitle": "Today's Message",
+    "thoughtTitle": "Today's Thought"
+  },
+  "director": {
+    "quote": "IISER Berhampur, established in 2016, is the youngest among the IISERs. The Institute is committed to imparting high quality education in basic sciences through its flagship five year BS-MS dual degree program. The Institute has already made significant progress in establishing state-of-the-art research facilities and attracting talented faculty members who are engaged in cutting edge research in various disciplines of basic sciences.",
+    "name": "Prof. K.N. Ganesh",
+    "title": "Director, IISER Berhampur"
+  },
+  "news": {
+    "title": "Latest Updates",
+    "subtitle": "Stay informed with the latest news, seminars, and announcements",
+    "tabs": {
+      "news": "News",
+      "seminars": "Seminars",
+      "announcements": "Announcements"
+    },
+    "readMore": "Read more",
+    "viewDetails": "View Details",
+    "speaker": "Speaker",
+    "time": "Time",
+    "venue": "Venue",
+    "deadline": "Deadline",
+    "priority": "Priority"
+  },
+  "metrics": {
+    "students": "Students",
+    "publications": "Publications",
+    "faculty": "Faculty",
+    "staff": "Staff",
+    "researchScholars": "Research Scholars"
+  },
+  "footer": {
+    "contactUs": "Contact Us",
+    "quickLinks": "Quick Links",
+    "resources": "Resources",
+    "connectWithUs": "Connect With Us",
+    "allRightsReserved": "All rights reserved"
+  }
+}
